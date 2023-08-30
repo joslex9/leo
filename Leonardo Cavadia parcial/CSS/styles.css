@@ -1,0 +1,100 @@
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: inherit;
+}
+/* fila dos */
+
+.fila.dos {
+  
+    background-image: url('../IMG/26763565_2112.i305.015.F.m005.c9.realistic\ scented\ candles.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 3rem 2rem;
+}
+
+.fila.dos div {
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 1rem;
+}
+.fila.dos div p {
+    font-size: 1.8rem;
+    color: #5a320b;
+    text-align: center;
+}
+
+.fila.dos div h1 {
+    font-size: 2.5rem;
+    color: #5a320b;
+    text-align: center;
+}
+
+/* fila primerap */
+.primerap {
+    background-color: rgba(252, 248, 248, 0.877);
+    display: flex;
+    padding: 2rem 1rem;
+  
+}
+ .col-33 {
+    width: 60%;
+
+}
+
+
+ .col-33 p img{
+    width: 100%;
+    height: auto;
+}
+
+ .col-66 {
+    width: 40%;
+    padding: 0.5rem 1rem;
+  
+}
+.col-66 h1{
+  text-align: center;
+  
+}
+.col-66 h2{
+    text-align: center;
+    
+  }
+
+/* nume uno dos tres ... */
+.unoo {
+    background-color: rgba(208, 187, 187, 0.877);
+    display: flex;
+    padding: 1rem;
+    width: 100%;
+    
+    
+}
+.unop {
+    margin: 5rem;
+   width: 50%;
+}
+
+.unop .uno{
+    padding: 0.5rem 1rem;
+    background-color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+}
+.unop .uno p img{
+    width: 300px;
+    
+}
+.unop .dos{
+    text-align: center;
+    padding: 0.5rem 1rem;
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+.unop .dos p img{
+    width: 300px;
+    
+}
+
+
